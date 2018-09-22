@@ -1,4 +1,4 @@
-#Principles of System Design Course 
+# Principles of System Design Course 
 
 Course description
 
@@ -19,4 +19,6 @@ The repository consists of 3 homeworks and 1 project. The design file explaining
 Author information for the project:
 
 Nirali Patel, Email: niralipatel@ufl.edu
+
 Shreyas Gaadikere Sreedhara, Email: shreyasgaadikere@ufl.edu
+
