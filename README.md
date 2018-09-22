@@ -6,19 +6,19 @@ A broad introduction to the main principles and abstractions for engineering har
 
 Topics covered
 
-Systems
-Elements of Computer System Design
-Naming schemes
-Enforcing modularity with Clients and Services
-Enforcing modularity with Virtulization
-Performance
-Fault tolerance
-Atomicity
-The repository consists of 3 homeworks and 1 project. The design file explaining how the file system is designed is attached with all the directories.
+1. Systems
+2. Elements of Computer System Design
+3. Naming schemes
+4. Enforcing modularity with Clients and Services
+5. Enforcing modularity with Virtulization
+6. Performance
+7. Fault tolerance
+8. Atomicity
+
+The repository consists of 4 homeworks and 1 project. The design file explaining how the file system is designed is attached with all the directories.
 
 Author information for the project:
 
-Nirali Patel, Email: niralipatel@ufl.edu
-
-Shreyas Gaadikere Sreedhara, Email: shreyasgaadikere@ufl.edu
+1. Nirali Patel, Email: niralipatel@ufl.edu
+2. Shreyas Gaadikere Sreedhara, Email: shreyasgaadikere@ufl.edu
 
