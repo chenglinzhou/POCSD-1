@@ -17,7 +17,7 @@ Topics covered
 
 The repository consists of 4 homeworks and 1 project. The design file explaining how the file system is designed is attached with all the directories.
 
-Author information for the project:
+Author information for the Final project:
 
 1. Nirali Patel, Email: niralipatel@ufl.edu
 2. Shreyas Gaadikere Sreedhara, Email: shreyasgaadikere@ufl.edu
